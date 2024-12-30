@@ -71,9 +71,7 @@ The **Inventory Management System** is a Python-based desktop application develo
 - **Frontend:** Tkinter (Python GUI Library)  
 - **Backend:** MySQL for database operations  
 - **Additional Libraries:**  
-  - `smtplib` for email integration  
-  - `matplotlib` (if used for sales chart visualization)  
-
+  - `smtplib` for email integration 
 ---
 
 ## How to Run  
@@ -82,8 +80,7 @@ The **Inventory Management System** is a Python-based desktop application develo
 1. **Install Python**: Ensure Python is installed on your system.  
 2. **Install Required Libraries**:  
    ```bash
-   pip install mysql-connector-python
-   pip install matplotlib  # If sales charts are included
+   pip install PyMySQL
    ```
 
 3. **Set Up MySQL Database**:  
